@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '37659'
     url: http://www.gutenberg.org/2009/agents/37659
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35415#Jewish-Immigration-to-the-United-States-from-1881-to-1910Studies-in-History-Economics-and-Pub_
 gutenberg_issued: '2011-02-27'
 gutenberg_type: Text
 identifiers:
